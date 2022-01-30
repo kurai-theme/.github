@@ -2,12 +2,13 @@
 
 ## planned ports
 - [ ] [kurai.nvim](https://github.com/kurai-theme/kurai.nvim) - [neovim](https://neovim.io)
-- [ ] [kurai.element](https://github.com/kurai-theme/kurai.element) - [element](https://element.io)
+- [x] [kurai.element](https://github.com/kurai-theme/kurai.element) - [element](https://element.io)
 - [ ] [kurai.ddg](https://github.com/kurai-theme/kurai.ddg) - [duckduckgo](https://duckduckgo.com)
 - [ ] [kurai.wt](https://github.com/kurai-theme/kurai.wt) - [windows terminal](https://github.com/microsoft/terminal)
 - [ ] [kurai.vsc](https://github.com/kurai-theme/kurai.vsc) - [visual studio code](https://code.visualstudio.com)
 - [ ] [kurai.ff](https://github.com/kurai-theme/kurai.ff) - [firefox](https://firefox.com)
 - [ ] [kurai.gh](https://github.com/kurai-theme/kurai.gh) - [github](https://github.com)
+- [ ] [kurai.ds](https://github.com/kurai-theme/kurai.ds) - [discord](https://discord.com)
 
 ## palette
 | color name  | hsl value     | hex value
