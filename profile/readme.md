@@ -6,7 +6,7 @@
 - [ ] [kurai.ddg](https://github.com/kurai-theme/kurai.ddg) - [duckduckgo](https://duckduckgo.com)
 - [ ] [kurai.wt](https://github.com/kurai-theme/kurai.wt) - [windows terminal](https://github.com/microsoft/terminal)
 - [ ] [kurai.vsc](https://github.com/kurai-theme/kurai.vsc) - [visual studio code](https://code.visualstudio.com)
-- [ ] [kurai.ff](https://github.com/kurai-theme/kurai.ff) - [firefox](https://firefox.com)
+- [x] [kurai.ff](https://github.com/kurai-theme/kurai.ff) - [firefox](https://firefox.com)
 - [ ] [kurai.gh](https://github.com/kurai-theme/kurai.gh) - [github](https://github.com)
 - [ ] [kurai.discord](https://github.com/kurai-theme/kurai.discord) - [discord](https://discord.com)
 - [ ] [kurai.spotify](https://github.com/kurai-theme/kurai.spotify) - [spotify](https://spotify.com)
