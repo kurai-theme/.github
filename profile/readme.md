@@ -1,6 +1,11 @@
 # kurai
 
-## planned ports
+## origins
+kurai was created as a colorscheme for neovim, with support of [themer.lua](https://github.com/themercorp/themer.lua) plugin.
+After I've created the first version of kurai I got some feedback, and realized that I would like to rework entire palette. I also wanted to port it to other platforms, such as visual studio code and firefox. Now I've ended up with this organization!
+
+## ports
+- [x] [themer_kurai](https://github.com/themercorp/themer.lua) - [neovim](https://neovim.io) 
 - [ ] [kurai.nvim](https://github.com/kurai-theme/kurai.nvim) - [neovim](https://neovim.io)
 - [x] [kurai.element](https://github.com/kurai-theme/kurai.element) - [element](https://element.io)
 - [x] [kurai.ddg](https://github.com/kurai-theme/kurai.ddg) - [duckduckgo](https://duckduckgo.com)
@@ -34,3 +39,8 @@ nebula_neutral| 275, 100,  60 | `#aa33ff`
 nebula_vibrant| 275, 100,  50 | `#9500ff`
 nebula_deep   | 270,  75,  50 | `#7f20df`
 nebula_void   | 270,  70,  40 | `#661fad`
+
+# credits
+- [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim/) for inspiration to create kurai!
+- [Astro](https://github.com/narutoxy) for creating [themer.lua](https://github.com/themercorp/themer.lua)!
+- [Vhyrro](https://github.com/vhyrro), [NTB](https://github.com/ntbbloodbath), [Papa](https://github.com/mordechaihadad) and [Gilfoyle](https://github.com/tamton-aquib) for their feedback and suggestions!
